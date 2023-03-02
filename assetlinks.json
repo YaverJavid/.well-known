@@ -1,0 +1,1 @@
+[ { "relation": ["delegate_permission/common.handle_all_urls"], "target": { "namespace": "android_app", "package_name": "xyz.appmaker.irpglg", "sha256_cert_fingerprints": ["FB:50:62:41:1E:45:46:61:D7:88:D2:53:56:16:89:D6:FE:91:DA:A8:29:5D:C8:7F:A2:6C:72:52:DA:D4:E0:7A"] } } ]
